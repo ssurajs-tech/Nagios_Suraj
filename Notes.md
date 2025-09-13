@@ -1,7 +1,3 @@
-Here’s a properly structured **GitHub README.md** file for your provided Nagios content, formatted for clarity and GitHub readability while keeping *everything exactly as above*, including all commands, explanations, and steps.
-
-***
-
 # Nagios Monitoring Tool
 
 Nagios is an open-source software for continuous monitoring of systems, networks and infrastructure. It runs plugins stored on a server which is connected with a host or another server on your network or the internet. In case of any failure, Nagios alerts about the issues so that the technical team can perform recovery processes immediately.
@@ -173,5 +169,3 @@ service httpd restart
 Copy the **public IP** of your EC2 instance and paste it into Google Chrome in the given format.
 
 ***
-
-Would you like me to also add some **sample screenshots section** (with placeholders for images) so this README looks even more GitHub-friendly?
